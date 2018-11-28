@@ -1,4 +1,4 @@
-# ZendSkeletonApplication
+# Sistema Locadora Imperial - Teste utilizando ZendFramework + TDD Mocha
 
 ## Introduction
 
